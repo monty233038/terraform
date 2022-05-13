@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vast-arena-329806",
+  "private_key_id": "c5318d8b703c28400f124b08b954b843229b3a3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUETPl38ux74C3\nFm8Lq8RjwS5Ryz1uiRBRctoV0I8Uuj10FAiEYLj0SnAXEDdxcZGJZ4AvYI9kqE0J\nH3vZ74YIJeqm8fOQxeRciNW+aTnblw0sGB1vaa4tt3v7LF40VSB9C319gP+s1CvA\njHXXk+lyEWIj4tY2icLMfIz/jPHgQsN7X6aG3UQnjoM/u8/3AfWo7mVrYm4P7L4B\npIQ8rTywK83UjGhtxXbLy56tLLEd7hmQWhH4sR+bqqF/30qnwja+5KWl+9MS51IS\ny4qB8XOXv5frXOdDwl12V760CNAwARM6J6ceO80NDbQTbsHkCUq9D1Shteu8hxRF\n66nWoWFFAgMBAAECggEAAoJKHVaN9o1m4nNUXV/DO6d91+/4MgPLjX3DOURn8EN5\noBpozIlxCN6sCJADSH5Sp3/j+amKtHtvlrx8VkSLQl8WG08VP/pCdNjyuj/BNbnZ\nBMrB0O37ABZQWQC29e8NVmEX9sT1UCHmPeSDaKw+c+rcfVwuIg1yihGAOCJUxOaG\nHUyHmsLpU0nvQHZs0V/Z6RKf15ve+1DS+4Mwl1evvfAEKdt0UVc03Mu9QI6LrXfA\nhRHu5us8UsxfSANqNQlDrpRe8gQsA8VEXUTGq0WlnTZ4PnzqfB9CgQZ6ZCDedLON\nwEgp85RT6RZyu9yLWvTOl1+Ex9/uGR3xbdNc7Mq24QKBgQDEIvYVfeqg6EQUsyFf\nl4ykTCMxWvZIjWaos/yIM4fq8Zxzov4lGDiyKcc4PE8LT9fklIyzos5cxjvHu8Op\nFAHcGQ1NIS0aeUqOYe1Zu4TLdkev8qoK/+oA76IyybMUKDBKbBRrJjOhOBbUn3MQ\nA2ZDAuAwKs/IHCyXiAKoPya3FQKBgQDBQl0j7b3xPADiaaM/5KntclcJl+xMbQOm\nzaySN2rrPyJntWPORhlXtVukuulZumSWxJoVLWWHdxo6nRqK/y705/1+AWFUOAjZ\nsq4GWNnz5CEB6l5+bo0uPWfg1wak9i2VFvDyfXFLM/lVpFRlzbI75muBRquXdIs7\nq9ydgeSNcQKBgGSZQfq4ALXTK8gqMH3lLz+9xXc1HokL7ZGt72K0e4wnrIUrHotM\nJxhKkWHonOpCY4tcHeatJIc1Lcg+KBb6qhGHz+i1kXq4p2LsG18g7PWmjxJRtqG5\nrP4Z6ul9xpoaGtqxIK/sgiK4sA0SU2PtOnA4c2CBNN2Aheaa3jIJYgQZAoGBALTp\nkRNfLR40U4ef6EiZoFE9Zij+5R+uNWriwpel9Rr/YQ/AiAvDJ1op1f5hUqzChgN1\nS+BjPNYRMqaIBx7zP1vYCD76v8f9JJvWXn5mkrFzb0rBwW+Nwe/1X9bks72dDpKw\nhSIbOAF0SAZZ7P/YDO9yBlVgeKUxXl2fxshTnkahAoGAH8RMJgMtXlnzLT8MAycP\nZC8vvwOfBPoEBkNpWuXC7sriV/Or7Pu2JlaKsCvSDt16e2wPCBoCKmdC7nLBg7e/\nY1Z7FeIu2e9HHUObvm1mL8qrNDFtbT/t+Q13EQG8+nSoFUQ+pOCWQ2jtoQarRz1l\njUxFDST0F7pDKgYr/hIZocs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@vast-arena-329806.iam.gserviceaccount.com",
+  "client_id": "108824501402272020076",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40vast-arena-329806.iam.gserviceaccount.com"
+}
